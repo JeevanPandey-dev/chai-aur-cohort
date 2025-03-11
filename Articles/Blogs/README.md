@@ -13,11 +13,11 @@
 
 <br>
 
-### [FUNCTIONS In JAVASCRIPT](https://blog.devwithjay.com/journey-of-data)
+### [FUNCTIONS In JAVASCRIPT](https://jeevanpandey-dev.hashnode.dev/functions-in-javascript)
 
   <a href="https://jeevanpandey-dev.hashnode.dev/functions-in-javascript">
       <p align=center>
-      <img width = "500px" alt="Network Blocked" src="/assets/1.png">
+      <img width = "500px" alt="Network Blocked" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1741613904856/21738476-0d1b-4ae8-9dfa-a0d51fb836ea.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp">
     <p>
   </a>
 
