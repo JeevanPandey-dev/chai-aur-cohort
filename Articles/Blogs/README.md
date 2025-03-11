@@ -13,9 +13,11 @@
 
 <br>
 
+<div align="center">
+
 ### [FUNCTIONS In JAVASCRIPT](https://jeevanpandey-dev.hashnode.dev/functions-in-javascript)
 
-<div align items = "center">
+
 <a href="https://jeevanpandey-dev.hashnode.dev/functions-in-javascript">
       <img width = "500px" alt="Network Blocked" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1741613904856/21738476-0d1b-4ae8-9dfa-a0d51fb836ea.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp">
   </a>
